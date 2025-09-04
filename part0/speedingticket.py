@@ -1,3 +1,5 @@
+# Eli Straus and Marvel Jonathan Tirtapraja
+
 def speeding(limit, speed):
     total = speed - limit
     if total <= -10:

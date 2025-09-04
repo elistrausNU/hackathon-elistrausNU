@@ -1,3 +1,6 @@
+# Eli Straus and Marvel Jonathan Tirtapraja
+
+
 def tempchecker():
     int_temp = 0
     heatingdays = 0

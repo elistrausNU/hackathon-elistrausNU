@@ -1,3 +1,6 @@
+# Eli Straus and Marvel Jonathan Tirtapraja
+
+
 def countchars(st):
     characters_to_exclude = " .!,"
     for char in characters_to_exclude:

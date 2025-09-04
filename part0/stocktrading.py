@@ -1,3 +1,6 @@
+# Eli Straus and Marvel Jonathan Tirtapraja
+
+
 def maxProfit(prices):
     max_price = 0
     for i in range(len(prices)):
